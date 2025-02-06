@@ -1,0 +1,239 @@
+id,label,role,weight,lat,lng
+001t,Le_Rose_Bonbon,Tournee,4,47.232834,-8.642209
+002t,Tournee_1982,Tournee,6,44.631623,-4.780980
+003t,Les_Dix_Jours_De_Pekin,Tournee,14,49.761091,-4.923187
+004t,Peril_Jaune_Tour,Tournee,29,48.943064,-6.087779
+005t,Tour_Scandinave_Concert_SOS_Racisme,Tournee,9,59.165248,20.927695
+006t,Indochine_Joue,Tournee,55,48.145844,-8.514014
+007t,Tour_88,Tournee,38,44.344156,-6.903653
+008t,Le_Birthday_Tour,Tournee,20,47.091630,-16.52530
+009t,Une_Nuit_Dans_Votre_Ville,Tournee,17,47.682699,-13.570552
+010t,Wax_Tour,Tournee,19,48.024712,-5.786532
+011t,Live_Tour,Tournee,15,49.204585,-3.380784
+012t,Indo_Tour_99,Tournee,12,46.459462,-3.378242
+013t,Dancetaria_Tour,Tournee,45,46.44921,-4.218000
+014t,Une_Nuit_Intime_Avec_Indochine,Tournee,31,45.869689,-7.933706
+015t,Paradize_Tour,Tournee,94,50.387259,0.723954
+016t,Alice_&_June_Tour,Tournee,65,41.348130,5.115541
+017t,Hanoi_25_Ans,Tournee,2,20.376310,108.740212
+018t,Meteor_Tour,Tournee,66,48.862971,-19.405687
+019t,Stade_De_France_Putain_De_Stade,Tournee,1,48.983306,-18.800390
+020t,Paradize_Plus_10,Tournee,2,47.744633,-5.51209
+021t,Black_City_Tour,Tournee,65,50.146624,-2.236604
+022t,Stade_De_France_Black_City_Concerts,Tournee,2,50.15127,-2.452731
+023t,Europe_City_Club_Tour,Tournee,8,41.210737,3.970099
+024t,Concerts_2015,Tournee,2,48.131357,-37.401925
+025t,Festival_Tour_2016,Tournee,7,44.103038,-2.861192
+026t,Concerts_2017,Tournee,2,48.358074,-5.890137
+027t,13_Tour,Tournee,60,48.996728,-2.573525
+028t,Concerts_2020,Tournee,3,45.228869,-5.062364
+029t,Concerts_2021,Tournee,4,48.934125,-4.717035
+030t,Central_Tour_Tournee_Des_Stades,Tournee,6,51.927788,3.200799
+031t,Concerts_2023,Tournee,11,51.462995,1.094715
+032t,Concerts_2024,Tournee,2,49.876833,-2.868145
+033t,Arena_Tour,Tournee,69,43.309087,9.151638
+001v,Paris,Ville,85,48.859,2.347
+002v,Lyon,Ville,32,45.758,4.835
+003v,Vincennes ,Ville,2,48.847279,2.437785
+004v,Bruxelles ,Ville,43,50.85045,4.34878
+005v,Orleans,Ville,13,47.873569,1.911358
+006v,Nancy,Ville,11,48.688135,6.171263
+007v,Bourges,Ville,5,47.082492,2.397634
+008v,Seraing,Ville,2,50.027649,3.368787
+009v,Tours,Ville,3,47.395476,0.694273
+010v,Chartres ,Ville,1,48.446525,1.502286
+011v,Vendome,Ville,1,47.795339,1.064216
+012v,Annonay,Ville,1,45.244537,4.653025
+013v,Rennes ,Ville,8,48.110899,-1.68365
+014v,Saint-Lo,Ville,1,49.113843,-1.080182
+015v,Dinan,Ville,1,48.446574,-2.053922
+016v,Lille,Ville,27,50.630993,3.045449
+017v,Sion,Ville,2,46.22739,7.35559
+018v,Lausanne ,Ville,7,46.516,6.63282
+019v,Geneve,Ville,12,46.20222,6.14569
+020v,Annecy ,Ville,4,45.901584,6.125296
+021v,Montelimar ,Ville,1,44.553424,4.745639
+022v,Romans-sur-Isere ,Ville,1,45.051594,5.046335
+023v,Montpellier ,Ville,15,43.610476,3.87048
+024v,Aix-En-Provence ,Ville,5,43.541369,5.406124
+025v,Saint-Jean,Ville,1,43.663804,1.504406
+026v,Carcassonne,Ville,4,43.206781,2.349415
+027v,Bordeaux ,Ville,20,44.851895,-0.587877
+028v,Limoges,Ville,9,45.856159,1.221254
+029v,Clermont-Ferrand,Ville,18,45.786671,3.107129
+030v,Saint-Etienne,Ville,11,45.430195,4.370045
+031v,La-Cote-Saint-Andre,Ville,1,45.383617,5.259519
+032v,Reims,Ville,12,49.250948,4.055595
+033v,Liege ,Ville,7,50.63373, 5.56749
+034v,Colmar,Ville,7,48.081502,7.352569
+035v,Strasbourg,Ville,20,48.579831,7.761454
+036v,Namur,Ville,4,47.504599,0.784089
+037v,Stockholm,Ville,4,59.32938,18.06871
+038v,Hultsfred,Ville,1,57.48815,15.84357
+039v,Orebro,Ville,1,59.27412,15.2066
+040v,Lund,Ville,1,55.70584,13.19321
+041v,Goteborg ,Ville,1,57.70716,11.96679
+042v,Copenhague,Ville,2,55.67594,12.56553
+043v,Champigny_Sur_Marne,Ville,1,48.81642,2.49366
+044v,Montrouge ,Ville,1,48.815929,2.316207
+045v,Les Ulis,Ville,1,48.681532,2.185946
+046v,Sevran,Ville,2,48.93797,2.531288
+047v,Rouen,Ville,15,49.440044,1.093912
+048v,Dijon,Ville,15,47.331848,5.033601
+049v,Mulhouse,Ville,3,47.751678,7.326517
+050v,Besancon ,Ville,4,47.24378,6.00064
+051v,Bourg-En-Bresse,Ville,1,46.204893,5.241148
+052v,Nice,Ville,7,43.71273,7.25092
+053v,Toulon,Ville,3,43.136385,5.933457
+054v,Nîmes,Ville,5,43.814652,4.356289
+055v,Perpignan ,Ville,2,42.701392,2.902878
+056v,Toulouse,Ville,19,43.604082,1.433805
+057v,Pau,Ville,6,43.313159,-0.343106
+058v,Castres,Ville,1,43.609392,2.245482
+059v,Gueret,Ville,1,46.171558,1.875015
+060v,Millau,Ville,1,44.115989,3.07932
+061v,Caen,Ville,11,49.184316,-0.37193
+062v,Melun ,Ville,2,48.541335,2.65985
+063v,Nantes,Ville,22,47.239367,-1.555335
+064v,Angers,Ville,5,47.467471,-0.561615
+065v,Verneuil,Ville,2,49.097699,3.67267
+066v,La Rochelle,Ville,3,46.158141,-1.171305
+067v,Redon,Ville,1,47.656781,-2.074178
+068v,Monaco,Ville,1,43.73718,7.42145
+069v,Antibes,Ville,1,43.582206,7.103245
+070v,Vaison-La-Romaine,Ville,2,44.249404,5.061432
+071v,Beziers,Ville,1,43.343264,3.233465
+072v,Nyon,Ville,6,44.355605,5.126141
+073v,Hyeres,Ville,1,43.116731,6.20255
+074v,Marseille,Ville,10,43.282,5.405
+075v,Bayonne,Ville,1,43.488544,-1.466564
+076v,Royan,Ville,1,45.634186,-1.017415
+077v,Grenoble,Ville,5,45.182081,5.7243
+078v,Lievin ,Ville,1,50.424192,2.769683
+079v,Epinal,Ville,1,48.170059,6.484474
+080v,Avignon,Ville,1,43.936694,4.845053
+081v,Le_Mans,Ville,5,48.0021, 0.20251
+082v,Amiens,Ville,9,49.895894,2.314669
+083v,Poitiers,Ville,2,46.586578,0.35668
+084v,Montréal,Ville,9,45.50884,-73.58781
+085v,Lima,Ville,4,-12.04318, -77.02824
+086v,Vitrolles,Ville,1,43.443844,5.258646
+087v,Saint-Denis-De-La-Reunion ,Ville,2,-20.909778,55.444588
+088v,Yerres,Ville,1,48.710884,2.491344
+089v,Berck,Ville,2,50.41121,1.581921
+090v,Roberval,Ville,1,48.5168,-72.23244
+091v,Chicoutimi,Ville,1,48.41963,-71.06369
+092v,Quebec,Ville,3,46.81228,-71.21454
+093v,Agen,Ville,1,44.202304,0.631041
+094v,Stavelot,Ville,1,50.395,5.93124
+095v,Virton,Ville,1,49.56824,5.53259
+096v,Delemont,Ville,1,47.36493,7.34453
+097v,Avion,Ville,1,50.408007,2.829131
+098v,Sandillon,Ville,1,47.838423,2.031022
+099v,Tremblay,Ville,1,48.97725,2.55497
+100v,Pellegrue,Ville,1,44.741309,0.101406
+101v,Vieux-Condé,Ville,1,50.474001,3.567392
+102v,Spa,Ville,3,50.48375,5.86674
+103v,Wattrelos,Ville,1,50.711887,3.218738
+104v,Bar-Le-Duc,Ville,1,48.773944,5.165032
+105v,Change-Les-Laval,Ville,1,48.067438,-0.704545
+106v,Chauny,Ville,1,49.616374,3.2196
+107v,Minervois,Ville,1,43.279149,2.588357
+108v,Auxerre,Ville,1,47.791247,3.579905
+109v,Arras,Ville,3,50.287896,2.768267
+110v,Mouscron,Ville,2,50.74497,3.20639
+111v,Compiegne,Ville,1,49.405934,2.844366
+112v,Maubeuge,Ville,1,50.284569,3.965341
+113v,Benassay,Ville,2,46.036148,5.899314
+114v,Plouenan,Ville,1,48.619357,-3.984665
+115v,Peronne,Ville,1,49.927386,2.925254
+116v,Henin-Beaumont,Ville,1,50.420666,2.951562
+117v,Saint-Imier,Ville,1,47.15284,6.99692
+118v,Chateauroux,Ville,2,46.804353,1.692994
+119v,Quimper,Ville,2,47.998749,-4.093145
+120v,Colombes,Ville,1,48.922535,2.247799
+121v,Torcy,Ville,1,48.846278,2.644456
+122v,Beauvais,Ville,4,49.440006,2.087703
+123v,Voiron,Ville,1,45.378051,5.585446
+124v,Hirson,Ville,1,49.920487,4.080538
+125v,Amneville,Ville,13,49.244708,6.123114
+126v,Le_Havre,Ville,4,49.49346,0.10785
+127v,Bex,Ville,1,48.345873,-1.158143
+128v,Sons,Ville,1,49.762335,3.675008
+129v,Gournay,Ville,1,46.592095,1.733619
+130v,Sete,Ville,1,43.40682,3.687298
+131v,Le_Lavandou,Ville,1,43.137, 6.366
+132v,Romorantin,Ville,1,47.363293,1.7449
+133v,Tournai,Ville,1,48.809281,0.042636
+134v,Arlon,Ville,1,49.92521,1.945216
+135v,La_Louviere,Ville,1,50.48657,4.18785
+136v,Aulnoyes-Aymeries,Ville,1,50.202617,3.836304
+137v,Dunkerque,Ville,2,51.02721,2.346525
+138v,Thionville,Ville,1,49.370617,6.150548
+139v,Gerardmer,Ville,1,48.071934,6.839197
+140v,Neuves-maisons,Ville,1,48.619336,6.106616
+141v,Bitche,Ville,1,49.047606,7.444178
+142v,Charleville-Mezieres,Ville,3,49.767639,4.71728
+143v,Longlaville,Ville,1,49.532696,5.799408
+144v,Chalon-Sur-Saone,Ville,3,46.792112,4.846002
+145v,Le Chesnay,Ville,1,48.826372,2.118964
+146v,Saint-Quentin,Ville,1,49.847398,3.28745
+147v,Creil,Ville,1,49.257474,2.478561
+148v,Albert,Ville,1,50.002051,2.653772
+149v,Mons,Ville,1,50.45413,3.95229
+150v,Les_Herbiers,Ville,1,46.87095, -1.0156
+151v,Mayenne,Ville,1,48.303387,-0.617261
+152v,Albi,Ville,3,43.929864,2.149681
+153v,Rouergue,Ville,1,44.349718,2.033528
+154v,Biarritz,Ville,1,43.47144,-1.555081
+155v,Pontivy,Ville,1,48.065625,-2.975174
+156v,Sarreguemines,Ville,1,49.110922,7.07705
+157v,Porcieu-Amblagnieu,Ville,1,45.830804,5.396569
+158v,Luxembourg,Ville,6,49.61167, 6.13
+159v,Macon,Ville,2,46.325859,4.810979
+160v,Aix-Les-Bains,Ville,4,45.689927,5.9099
+161v,Dour,Ville,1,48.535769,2.012239
+162v,Saint-Martin-De-Crau,Ville,1,43.63715,4.84769
+163v,Calais,Ville,1,50.951564,1.866112
+164v,Brive,Ville,1,45.148038,1.517353
+165v,Zurich,Ville,1,47.36667, 8.55
+166v,Neufchatel,Ville,1,49.731987,1.44597
+167v,Troyes,Ville,2,48.292817,4.075149
+168v,Montlucon,Ville,2,46.34226,2.605232
+169v,Brest,Ville,2,48.406435,-4.497736
+170v,La-Roche-Sur-Yon,Ville,2,46.670848,-1.412585
+171v,Lorient,Ville,2,47.750687,-3.378425
+172v,Saint-Malo,Ville,3,48.642082,-1.988626
+173v,Vienne,Ville,1,45.526486,4.88366
+174v,Fontenay-Le-Comte,Ville,1,46.459821,-0.794159
+175v,Bobital,Ville,1,48.414713,-2.095712
+176v,Hanoi,Ville,2,21.0245,105.84117
+177v,Chambery,Ville,1,45.583223,5.909299
+178v,Epernay,Ville,3,49.040236,3.960527
+179v,Douai,Ville,7,50.379896,3.094897
+180v,Angouleme,Ville,1,45.644018,0.148409
+181v,Carhaix,Ville,2,48.266001,-3.570037
+182v,Montbeliard,Ville,1,47.508197,6.794689
+183v,Roanne,Ville,1,46.043412,4.072015
+184v,Boulazac,Ville,1,45.138859,0.783086
+185v,Aurillac,Ville,1,44.918771,2.435053
+186v,Trelaze ,Ville,2,47.448588,-0.486386
+187v,Argeles,Ville,2,42.548997,3.020314
+188v,Londres,Ville,2,51.50853,-0.12574
+189v,Barcelone,Ville,1,41.38879,2.15899
+190v,Milan,Ville,1,45.46427,9.18951
+191v,Berlin,Ville,1,52.52437,13.41053
+192v,Oslo ,Ville,1,59.91273,10.74609
+193v,Anvers,Ville,1,51.22047, 4.40026
+194v,Amsterdam,Ville,1,52.37403,4.88969
+195v,New York,Ville,1,40.71427,-74.00597
+196v,Saint-Laurent-De-Cuves,Ville,1,48.743299,-1.111474
+197v,Saint-Malo-Du-Bois,Ville,1,46.922733,-0.908273
+198v,Landerneau,Ville,1,48.450764,-4.26042
+199v,Marmande,Ville,1,44.50184,0.170988
+200v,Saint-Nolff,Ville,1,47.706067,-2.6695
+201v,Nort-Sur-Erdre,Ville,1,47.444281,-1.530425
+202v,Belfort,Ville,1,47.640938,6.857469
+203v,Herouville-Saint-Clair,Ville,1,49.203723,-0.334757
+204v,Braine-Le-Comte,Ville,1,50.60979,4.14658
+205v,Roissy-En-France,Ville,1,48.997813,2.513436

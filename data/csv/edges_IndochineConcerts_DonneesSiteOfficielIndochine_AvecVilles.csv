@@ -1,0 +1,565 @@
+source,target,label,weight
+001t,001v,Paris_pour_Le_Rose_Bonbon,4
+002t,002v,Lyon_pour_Tournee_1982,1
+002t,001v,Paris_pour_Tournee_1982,4
+002t,003v,Vincennes _pour_Tournee_1982,1
+003t,012v,Annonay_pour_Les_Dix_Jours_De_Pekin,1
+003t,007v,Bourges_pour_Les_Dix_Jours_De_Pekin,1
+003t,004v,Bruxelles _pour_Les_Dix_Jours_De_Pekin,2
+003t,010v,Chartres _pour_Les_Dix_Jours_De_Pekin,1
+003t,002v,Lyon_pour_Les_Dix_Jours_De_Pekin,1
+003t,006v,Nancy_pour_Les_Dix_Jours_De_Pekin,1
+003t,005v,Orleans_pour_Les_Dix_Jours_De_Pekin,1
+003t,001v,Paris_pour_Les_Dix_Jours_De_Pekin,2
+003t,013v,Rennes _pour_Les_Dix_Jours_De_Pekin,1
+003t,008v,Seraing_pour_Les_Dix_Jours_De_Pekin,1
+003t,009v,Tours_pour_Les_Dix_Jours_De_Pekin,1
+003t,011v,Vendome_pour_Les_Dix_Jours_De_Pekin,1
+004t,024v,Aix-En-Provence _pour_Peril_Jaune_Tour,1
+004t,020v,Annecy _pour_Peril_Jaune_Tour,1
+004t,027v,Bordeaux _pour_Peril_Jaune_Tour,1
+004t,004v,Bruxelles _pour_Peril_Jaune_Tour,1
+004t,026v,Carcassonne_pour_Peril_Jaune_Tour,1
+004t,029v,Clermont-Ferrand_pour_Peril_Jaune_Tour,1
+004t,034v,Colmar_pour_Peril_Jaune_Tour,1
+004t,015v,Dinan_pour_Peril_Jaune_Tour,1
+004t,019v,Geneve_pour_Peril_Jaune_Tour,1
+004t,031v,La-Cote-Saint-Andre_pour_Peril_Jaune_Tour,1
+004t,018v,Lausanne _pour_Peril_Jaune_Tour,1
+004t,033v,Liege _pour_Peril_Jaune_Tour,1
+004t,016v,Lille_pour_Peril_Jaune_Tour,1
+004t,028v,Limoges_pour_Peril_Jaune_Tour,1
+004t,002v,Lyon_pour_Peril_Jaune_Tour,1
+004t,021v,Montelimar _pour_Peril_Jaune_Tour,1
+004t,023v,Montpellier _pour_Peril_Jaune_Tour,1
+004t,036v,Namur_pour_Peril_Jaune_Tour,1
+004t,006v,Nancy_pour_Peril_Jaune_Tour,1
+004t,001v,Paris_pour_Peril_Jaune_Tour,2
+004t,032v,Reims_pour_Peril_Jaune_Tour,1
+004t,022v,Romans-sur-Isere _pour_Peril_Jaune_Tour,1
+004t,030v,Saint-Etienne_pour_Peril_Jaune_Tour,2
+004t,025v,Saint-Jean_pour_Peril_Jaune_Tour,1
+004t,014v,Saint-Lo_pour_Peril_Jaune_Tour,1
+004t,017v,Sion_pour_Peril_Jaune_Tour,1
+004t,035v,Strasbourg_pour_Peril_Jaune_Tour,1
+005t,042v,Copenhague_pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,041v,Goteborg _pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,038v,Hultsfred_pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,040v,Lund_pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,039v,Orebro_pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,001v,Paris_pour_Tour_Scandinave_Concert_SOS_Racisme,1
+005t,037v,Stockholm_pour_Tour_Scandinave_Concert_SOS_Racisme,3
+006t,064v,Angers_pour_Indochine_Joue,1
+006t,020v,Annecy _pour_Indochine_Joue,1
+006t,069v,Antibes_pour_Indochine_Joue,1
+006t,075v,Bayonne_pour_Indochine_Joue,1
+006t,050v,Besancon _pour_Indochine_Joue,1
+006t,071v,Beziers_pour_Indochine_Joue,1
+006t,027v,Bordeaux _pour_Indochine_Joue,1
+006t,051v,Bourg-En-Bresse_pour_Indochine_Joue,1
+006t,007v,Bourges_pour_Indochine_Joue,1
+006t,061v,Caen_pour_Indochine_Joue,1
+006t,026v,Carcassonne_pour_Indochine_Joue,1
+006t,058v,Castres_pour_Indochine_Joue,1
+006t,043v,Champigny_Sur_Marne_pour_Indochine_Joue,1
+006t,029v,Clermont-Ferrand_pour_Indochine_Joue,1
+006t,048v,Dijon_pour_Indochine_Joue,1
+006t,059v,Gueret_pour_Indochine_Joue,1
+006t,073v,Hyeres_pour_Indochine_Joue,1
+006t,066v,La Rochelle_pour_Indochine_Joue,1
+006t,018v,Lausanne _pour_Indochine_Joue,1
+006t,045v,Les Ulis_pour_Indochine_Joue,1
+006t,016v,Lille_pour_Indochine_Joue,1
+006t,002v,Lyon_pour_Indochine_Joue,2
+006t,074v,Marseille_pour_Indochine_Joue,1
+006t,062v,Melun _pour_Indochine_Joue,1
+006t,060v,Millau_pour_Indochine_Joue,1
+006t,068v,Monaco_pour_Indochine_Joue,1
+006t,023v,Montpellier _pour_Indochine_Joue,1
+006t,044v,Montrouge _pour_Indochine_Joue,1
+006t,049v,Mulhouse_pour_Indochine_Joue,1
+006t,006v,Nancy_pour_Indochine_Joue,1
+006t,063v,Nantes_pour_Indochine_Joue,1
+006t,052v,Nice_pour_Indochine_Joue,1
+006t,054v,Nîmes_pour_Indochine_Joue,1
+006t,072v,Nyon_pour_Indochine_Joue,1
+006t,005v,Orleans_pour_Indochine_Joue,1
+006t,001v,Paris_pour_Indochine_Joue,4
+006t,057v,Pau_pour_Indochine_Joue,1
+006t,055v,Perpignan _pour_Indochine_Joue,1
+006t,067v,Redon_pour_Indochine_Joue,1
+006t,032v,Reims_pour_Indochine_Joue,1
+006t,013v,Rennes _pour_Indochine_Joue,1
+006t,047v,Rouen_pour_Indochine_Joue,1
+006t,076v,Royan_pour_Indochine_Joue,1
+006t,030v,Saint-Etienne_pour_Indochine_Joue,1
+006t,046v,Sevran_pour_Indochine_Joue,1
+006t,035v,Strasbourg_pour_Indochine_Joue,1
+006t,053v,Toulon_pour_Indochine_Joue,1
+006t,056v,Toulouse_pour_Indochine_Joue,1
+006t,009v,Tours_pour_Indochine_Joue,1
+006t,070v,Vaison-La-Romaine_pour_Indochine_Joue,1
+006t,065v,Verneuil_pour_Indochine_Joue,1
+007t,082v,Amiens_pour_Tour_88,1
+007t,064v,Angers_pour_Tour_88,1
+007t,080v,Avignon_pour_Tour_88,1
+007t,027v,Bordeaux _pour_Tour_88,1
+007t,007v,Bourges_pour_Tour_88,1
+007t,004v,Bruxelles _pour_Tour_88,1
+007t,061v,Caen_pour_Tour_88,1
+007t,029v,Clermont-Ferrand_pour_Tour_88,1
+007t,048v,Dijon_pour_Tour_88,1
+007t,079v,Epinal_pour_Tour_88,1
+007t,077v,Grenoble_pour_Tour_88,1
+007t,018v,Lausanne _pour_Tour_88,1
+007t,081v,Le_Mans_pour_Tour_88,1
+007t,078v,Lievin _pour_Tour_88,1
+007t,016v,Lille_pour_Tour_88,1
+007t,085v,Lima_pour_Tour_88,4
+007t,028v,Limoges_pour_Tour_88,1
+007t,002v,Lyon_pour_Tour_88,1
+007t,023v,Montpellier _pour_Tour_88,1
+007t,084v,Montréal_pour_Tour_88,1
+007t,049v,Mulhouse_pour_Tour_88,1
+007t,063v,Nantes_pour_Tour_88,1
+007t,052v,Nice_pour_Tour_88,1
+007t,005v,Orleans_pour_Tour_88,1
+007t,001v,Paris_pour_Tour_88,4
+007t,083v,Poitiers_pour_Tour_88,1
+007t,032v,Reims_pour_Tour_88,1
+007t,013v,Rennes _pour_Tour_88,1
+007t,030v,Saint-Etienne_pour_Tour_88,1
+007t,035v,Strasbourg_pour_Tour_88,1
+007t,056v,Toulouse_pour_Tour_88,1
+007t,003v,Vincennes _pour_Tour_88,1
+008t,093v,Agen_pour_Le_Birthday_Tour,1
+008t,082v,Amiens_pour_Le_Birthday_Tour,1
+008t,089v,Berck_pour_Le_Birthday_Tour,1
+008t,027v,Bordeaux _pour_Le_Birthday_Tour,1
+008t,004v,Bruxelles _pour_Le_Birthday_Tour,1
+008t,091v,Chicoutimi_pour_Le_Birthday_Tour,1
+008t,034v,Colmar_pour_Le_Birthday_Tour,1
+008t,019v,Geneve_pour_Le_Birthday_Tour,1
+008t,002v,Lyon_pour_Le_Birthday_Tour,1
+008t,084v,Montréal_pour_Le_Birthday_Tour,1
+008t,001v,Paris_pour_Le_Birthday_Tour,1
+008t,092v,Quebec_pour_Le_Birthday_Tour,1
+008t,032v,Reims_pour_Le_Birthday_Tour,1
+008t,090v,Roberval_pour_Le_Birthday_Tour,1
+008t,087v,Saint-Denis-De-La-Reunion _pour_Le_Birthday_Tour,2
+008t,094v,Stavelot_pour_Le_Birthday_Tour,1
+008t,035v,Strasbourg_pour_Le_Birthday_Tour,1
+008t,086v,Vitrolles_pour_Le_Birthday_Tour,1
+008t,088v,Yerres_pour_Le_Birthday_Tour,1
+009t,097v,Avion_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,004v,Bruxelles _pour_Une_Nuit_Dans_Votre_Ville,1
+009t,096v,Delemont_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,077v,Grenoble_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,002v,Lyon_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,084v,Montréal_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,001v,Paris_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,100v,Pellegrue_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,098v,Sandillon_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,102v,Spa_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,035v,Strasbourg_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,056v,Toulouse_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,099v,Tremblay_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,065v,Verneuil_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,101v,Vieux-Condé_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,095v,Virton_pour_Une_Nuit_Dans_Votre_Ville,1
+009t,103v,Wattrelos_pour_Une_Nuit_Dans_Votre_Ville,1
+010t,109v,Arras_pour_Wax_Tour,1
+010t,108v,Auxerre_pour_Wax_Tour,1
+010t,104v,Bar-Le-Duc_pour_Wax_Tour,1
+010t,004v,Bruxelles _pour_Wax_Tour,4
+010t,105v,Change-Les-Laval_pour_Wax_Tour,1
+010t,106v,Chauny_pour_Wax_Tour,1
+010t,019v,Geneve_pour_Wax_Tour,1
+010t,003v,Vincennes _pour_Wax_Tour,1
+010t,107v,Minervois_pour_Wax_Tour,1
+010t,084v,Montréal_pour_Wax_Tour,1
+010t,110v,Mouscron_pour_Wax_Tour,1
+010t,001v,Paris_pour_Wax_Tour,3
+010t,046v,Sevran_pour_Wax_Tour,1
+010t,102v,Spa_pour_Wax_Tour,1
+011t,082v,Amiens_pour_Live_Tour,1
+011t,027v,Bordeaux _pour_Live_Tour,1
+011t,061v,Caen_pour_Live_Tour,1
+011t,111v,Compiegne_pour_Live_Tour,1
+011t,016v,Lille_pour_Live_Tour,1
+011t,002v,Lyon_pour_Live_Tour,1
+011t,074v,Marseille_pour_Live_Tour,1
+011t,112v,Maubeuge_pour_Live_Tour,1
+011t,062v,Melun _pour_Live_Tour,1
+011t,036v,Namur_pour_Live_Tour,1
+011t,063v,Nantes_pour_Live_Tour,1
+011t,001v,Paris_pour_Live_Tour,1
+011t,057v,Pau_pour_Live_Tour,1
+011t,035v,Strasbourg_pour_Live_Tour,1
+011t,056v,Toulouse_pour_Live_Tour,1
+012t,020v,Annecy _pour_Indo_Tour_99,1
+012t,113v,Benassay_pour_Indo_Tour_99,2
+012t,004v,Bruxelles _pour_Indo_Tour_99,1
+012t,116v,Henin-Beaumont_pour_Indo_Tour_99,1
+012t,028v,Limoges_pour_Indo_Tour_99,1
+012t,023v,Montpellier _pour_Indo_Tour_99,1
+012t,001v,Paris_pour_Indo_Tour_99,1
+012t,115v,Peronne_pour_Indo_Tour_99,1
+012t,114v,Plouenan_pour_Indo_Tour_99,1
+012t,047v,Rouen_pour_Indo_Tour_99,1
+012t,030v,Saint-Etienne_pour_Indo_Tour_99,1
+013t,125v,Amneville_pour_Dancetaria_Tour,1
+013t,020v,Annecy _pour_Dancetaria_Tour,1
+013t,122v,Beauvais_pour_Dancetaria_Tour,1
+013t,089v,Berck_pour_Dancetaria_Tour,1
+013t,127v,Bex_pour_Dancetaria_Tour,1
+013t,027v,Bordeaux _pour_Dancetaria_Tour,1
+013t,004v,Bruxelles _pour_Dancetaria_Tour,4
+013t,061v,Caen_pour_Dancetaria_Tour,1
+013t,118v,Chateauroux_pour_Dancetaria_Tour,1
+013t,029v,Clermont-Ferrand_pour_Dancetaria_Tour,1
+013t,034v,Colmar_pour_Dancetaria_Tour,1
+013t,120v,Colombes_pour_Dancetaria_Tour,1
+013t,019v,Geneve_pour_Dancetaria_Tour,1
+013t,129v,Gournay_pour_Dancetaria_Tour,1
+013t,124v,Hirson_pour_Dancetaria_Tour,1
+013t,018v,Lausanne _pour_Dancetaria_Tour,1
+013t,126v,Le_Havre_pour_Dancetaria_Tour,1
+013t,131v,Le_Lavandou_pour_Dancetaria_Tour,1
+013t,081v,Le_Mans_pour_Dancetaria_Tour,1
+013t,016v,Lille_pour_Dancetaria_Tour,1
+013t,002v,Lyon_pour_Dancetaria_Tour,1
+013t,074v,Marseille_pour_Dancetaria_Tour,1
+013t,036v,Namur_pour_Dancetaria_Tour,1
+013t,006v,Nancy_pour_Dancetaria_Tour,1
+013t,063v,Nantes_pour_Dancetaria_Tour,1
+013t,054v,Nîmes_pour_Dancetaria_Tour,2
+013t,001v,Paris_pour_Dancetaria_Tour,4
+013t,119v,Quimper_pour_Dancetaria_Tour,1
+013t,023v,Montpellier _pour_Dancetaria_Tour,1
+013t,013v,Rennes _pour_Dancetaria_Tour,1
+013t,117v,Saint-Imier_pour_Dancetaria_Tour,1
+013t,130v,Sete_pour_Dancetaria_Tour,1
+013t,128v,Sons_pour_Dancetaria_Tour,1
+013t,102v,Spa_pour_Dancetaria_Tour,1
+013t,121v,Torcy_pour_Dancetaria_Tour,1
+013t,056v,Toulouse_pour_Dancetaria_Tour,1
+013t,070v,Vaison-La-Romaine_pour_Dancetaria_Tour,1
+013t,123v,Voiron_pour_Dancetaria_Tour,1
+014t,148v,Albert_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,134v,Arlon_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,109v,Arras_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,136v,Aulnoyes-Aymeries_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,141v,Bitche_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,027v,Bordeaux _pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,144v,Chalon-Sur-Saone_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,142v,Charleville-Mezieres_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,029v,Clermont-Ferrand_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,147v,Creil_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,137v,Dunkerque_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,139v,Gerardmer_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,135v,La_Louviere_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,145v,Le Chesnay_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,016v,Lille_pour_Une_Nuit_Intime_Avec_Indochine,2
+014t,143v,Longlaville_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,002v,Lyon_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,074v,Marseille_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,110v,Mouscron_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,140v,Neuves-maisons_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,001v,Paris_pour_Une_Nuit_Intime_Avec_Indochine,4
+014t,132v,Romorantin_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,146v,Saint-Quentin_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,008v,Seraing_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,035v,Strasbourg_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,138v,Thionville_pour_Une_Nuit_Intime_Avec_Indochine,1
+014t,133v,Tournai_pour_Une_Nuit_Intime_Avec_Indochine,1
+015t,160v,Aix-Les-Bains_pour_Paradize_Tour,1
+015t,152v,Albi_pour_Paradize_Tour,1
+015t,082v,Amiens_pour_Paradize_Tour,1
+015t,125v,Amneville_pour_Paradize_Tour,1
+015t,064v,Angers_pour_Paradize_Tour,1
+015t,122v,Beauvais_pour_Paradize_Tour,1
+015t,050v,Besancon _pour_Paradize_Tour,2
+015t,154v,Biarritz_pour_Paradize_Tour,1
+015t,027v,Bordeaux _pour_Paradize_Tour,1
+015t,007v,Bourges_pour_Paradize_Tour,1
+015t,169v,Brest_pour_Paradize_Tour,1
+015t,164v,Brive_pour_Paradize_Tour,1
+015t,004v,Bruxelles _pour_Paradize_Tour,3
+015t,061v,Caen_pour_Paradize_Tour,1
+015t,163v,Calais_pour_Paradize_Tour,1
+015t,026v,Carcassonne_pour_Paradize_Tour,1
+015t,144v,Chalon-Sur-Saone_pour_Paradize_Tour,1
+015t,142v,Charleville-Mezieres_pour_Paradize_Tour,1
+015t,029v,Clermont-Ferrand_pour_Paradize_Tour,1
+015t,048v,Dijon_pour_Paradize_Tour,1
+015t,161v,Dour_pour_Paradize_Tour,1
+015t,019v,Geneve_pour_Paradize_Tour,1
+015t,077v,Grenoble_pour_Paradize_Tour,1
+015t,170v,La-Roche-Sur-Yon_pour_Paradize_Tour,1
+015t,126v,Le_Havre_pour_Paradize_Tour,1
+015t,081v,Le_Mans_pour_Paradize_Tour,1
+015t,150v,Les_Herbiers_pour_Paradize_Tour,1
+015t,033v,Liege _pour_Paradize_Tour,1
+015t,016v,Lille_pour_Paradize_Tour,3
+015t,028v,Limoges_pour_Paradize_Tour,1
+015t,171v,Lorient_pour_Paradize_Tour,1
+015t,158v,Luxembourg_pour_Paradize_Tour,3
+015t,002v,Lyon_pour_Paradize_Tour,2
+015t,159v,Macon_pour_Paradize_Tour,1
+015t,074v,Marseille_pour_Paradize_Tour,1
+015t,151v,Mayenne_pour_Paradize_Tour,1
+015t,149v,Mons_pour_Paradize_Tour,1
+015t,168v,Montlucon_pour_Paradize_Tour,1
+015t,023v,Montpellier _pour_Paradize_Tour,1
+015t,084v,Montréal_pour_Paradize_Tour,2
+015t,049v,Mulhouse_pour_Paradize_Tour,1
+015t,036v,Namur_pour_Paradize_Tour,1
+015t,006v,Nancy_pour_Paradize_Tour,2
+015t,063v,Nantes_pour_Paradize_Tour,2
+015t,166v,Neufchatel_pour_Paradize_Tour,1
+015t,052v,Nice_pour_Paradize_Tour,1
+015t,054v,Nîmes_pour_Paradize_Tour,1
+015t,072v,Nyon_pour_Paradize_Tour,1
+015t,005v,Orleans_pour_Paradize_Tour,1
+015t,001v,Paris_pour_Paradize_Tour,8
+015t,057v,Pau_pour_Paradize_Tour,1
+015t,055v,Perpignan _pour_Paradize_Tour,1
+015t,083v,Poitiers_pour_Paradize_Tour,1
+015t,155v,Pontivy_pour_Paradize_Tour,1
+015t,157v,Porcieu-Amblagnieu_pour_Paradize_Tour,1
+015t,092v,Quebec_pour_Paradize_Tour,1
+015t,119v,Quimper_pour_Paradize_Tour,1
+015t,032v,Reims_pour_Paradize_Tour,1
+015t,013v,Rennes _pour_Paradize_Tour,1
+015t,047v,Rouen_pour_Paradize_Tour,1
+015t,153v,Rouergue_pour_Paradize_Tour,1
+015t,030v,Saint-Etienne_pour_Paradize_Tour,2
+015t,172v,Saint-Malo_pour_Paradize_Tour,3
+015t,162v,Saint-Martin-De-Crau_pour_Paradize_Tour,1
+015t,156v,Sarreguemines_pour_Paradize_Tour,1
+015t,035v,Strasbourg_pour_Paradize_Tour,2
+015t,053v,Toulon_pour_Paradize_Tour,1
+015t,056v,Toulouse_pour_Paradize_Tour,2
+015t,167v,Troyes_pour_Paradize_Tour,1
+015t,173v,Vienne_pour_Paradize_Tour,1
+015t,165v,Zurich_pour_Paradize_Tour,1
+016t,082v,Amiens_pour_Alice_&_June_Tour,1
+016t,125v,Amneville_pour_Alice_&_June_Tour,1
+016t,064v,Angers_pour_Alice_&_June_Tour,1
+016t,122v,Beauvais_pour_Alice_&_June_Tour,1
+016t,175v,Bobital_pour_Alice_&_June_Tour,1
+016t,027v,Bordeaux _pour_Alice_&_June_Tour,2
+016t,007v,Bourges_pour_Alice_&_June_Tour,1
+016t,004v,Bruxelles _pour_Alice_&_June_Tour,5
+016t,061v,Caen_pour_Alice_&_June_Tour,1
+016t,144v,Chalon-Sur-Saone_pour_Alice_&_June_Tour,1
+016t,029v,Clermont-Ferrand_pour_Alice_&_June_Tour,1
+016t,034v,Colmar_pour_Alice_&_June_Tour,1
+016t,048v,Dijon_pour_Alice_&_June_Tour,1
+016t,174v,Fontenay-Le-Comte_pour_Alice_&_June_Tour,1
+016t,019v,Geneve_pour_Alice_&_June_Tour,1
+016t,077v,Grenoble_pour_Alice_&_June_Tour,1
+016t,066v,La Rochelle_pour_Alice_&_June_Tour,1
+016t,126v,Le_Havre_pour_Alice_&_June_Tour,1
+016t,081v,Le_Mans_pour_Alice_&_June_Tour,1
+016t,033v,Liege _pour_Alice_&_June_Tour,3
+016t,016v,Lille_pour_Alice_&_June_Tour,4
+016t,028v,Limoges_pour_Alice_&_June_Tour,2
+016t,158v,Luxembourg_pour_Alice_&_June_Tour,1
+016t,002v,Lyon_pour_Alice_&_June_Tour,3
+016t,074v,Marseille_pour_Alice_&_June_Tour,1
+016t,168v,Montlucon_pour_Alice_&_June_Tour,1
+016t,023v,Montpellier _pour_Alice_&_June_Tour,1
+016t,084v,Montréal_pour_Alice_&_June_Tour,2
+016t,006v,Nancy_pour_Alice_&_June_Tour,1
+016t,063v,Nantes_pour_Alice_&_June_Tour,1
+016t,052v,Nice_pour_Alice_&_June_Tour,1
+016t,072v,Nyon_pour_Alice_&_June_Tour,1
+016t,005v,Orleans_pour_Alice_&_June_Tour,1
+016t,001v,Paris_pour_Alice_&_June_Tour,7
+016t,057v,Pau_pour_Alice_&_June_Tour,1
+016t,032v,Reims_pour_Alice_&_June_Tour,2
+016t,013v,Rennes _pour_Alice_&_June_Tour,2
+016t,047v,Rouen_pour_Alice_&_June_Tour,1
+016t,030v,Saint-Etienne_pour_Alice_&_June_Tour,1
+016t,035v,Strasbourg_pour_Alice_&_June_Tour,1
+016t,053v,Toulon_pour_Alice_&_June_Tour,1
+016t,056v,Toulouse_pour_Alice_&_June_Tour,2
+017t,176v,Hanoi_pour_Hanoi_25_Ans,2
+018t,160v,Aix-Les-Bains_pour_Meteor_Tour,1
+018t,082v,Amiens_pour_Meteor_Tour,1
+018t,125v,Amneville_pour_Meteor_Tour,2
+018t,064v,Angers_pour_Meteor_Tour,1
+018t,180v,Angouleme_pour_Meteor_Tour,1
+018t,027v,Bordeaux _pour_Meteor_Tour,2
+018t,004v,Bruxelles _pour_Meteor_Tour,7
+018t,061v,Caen_pour_Meteor_Tour,2
+018t,181v,Carhaix_pour_Meteor_Tour,1
+018t,177v,Chambery_pour_Meteor_Tour,1
+018t,029v,Clermont-Ferrand_pour_Meteor_Tour,2
+018t,034v,Colmar_pour_Meteor_Tour,1
+018t,048v,Dijon_pour_Meteor_Tour,2
+018t,179v,Douai_pour_Meteor_Tour,1
+018t,178v,Epernay_pour_Meteor_Tour,1
+018t,019v,Geneve_pour_Meteor_Tour,2
+018t,081v,Le_Mans_pour_Meteor_Tour,1
+018t,016v,Lille_pour_Meteor_Tour,4
+018t,028v,Limoges_pour_Meteor_Tour,1
+018t,158v,Luxembourg_pour_Meteor_Tour,1
+018t,002v,Lyon_pour_Meteor_Tour,4
+018t,074v,Marseille_pour_Meteor_Tour,1
+018t,023v,Montpellier _pour_Meteor_Tour,2
+018t,006v,Nancy_pour_Meteor_Tour,1
+018t,063v,Nantes_pour_Meteor_Tour,3
+018t,052v,Nice_pour_Meteor_Tour,1
+018t,072v,Nyon_pour_Meteor_Tour,1
+018t,005v,Orleans_pour_Meteor_Tour,2
+018t,001v,Paris_pour_Meteor_Tour,4
+018t,057v,Pau_pour_Meteor_Tour,1
+018t,092v,Quebec_pour_Meteor_Tour,1
+018t,013v,Rennes _pour_Meteor_Tour,1
+018t,047v,Rouen_pour_Meteor_Tour,2
+018t,030v,Saint-Etienne_pour_Meteor_Tour,1
+018t,035v,Strasbourg_pour_Meteor_Tour,2
+018t,056v,Toulouse_pour_Meteor_Tour,2
+018t,009v,Tours_pour_Meteor_Tour,1
+018t,167v,Troyes_pour_Meteor_Tour,1
+019t,001v,Paris_pour_Stade_De_France_Putain_De_Stade,1
+020t,001v,Paris_pour_Paradize_Plus_10,2
+021t,152v,Albi_pour_Black_City_Tour,1
+021t,082v,Amiens_pour_Black_City_Tour,1
+021t,125v,Amneville_pour_Black_City_Tour,2
+021t,187v,Argeles_pour_Black_City_Tour,1
+021t,109v,Arras_pour_Black_City_Tour,1
+021t,185v,Aurillac_pour_Black_City_Tour,1
+021t,122v,Beauvais_pour_Black_City_Tour,1
+021t,027v,Bordeaux _pour_Black_City_Tour,1
+021t,184v,Boulazac_pour_Black_City_Tour,1
+021t,169v,Brest_pour_Black_City_Tour,1
+021t,004v,Bruxelles _pour_Black_City_Tour,4
+021t,061v,Caen_pour_Black_City_Tour,1
+021t,181v,Carhaix_pour_Black_City_Tour,1
+021t,118v,Chateauroux_pour_Black_City_Tour,1
+021t,029v,Clermont-Ferrand_pour_Black_City_Tour,2
+021t,034v,Colmar_pour_Black_City_Tour,1
+021t,048v,Dijon_pour_Black_City_Tour,2
+021t,179v,Douai_pour_Black_City_Tour,1
+021t,137v,Dunkerque_pour_Black_City_Tour,1
+021t,178v,Epernay_pour_Black_City_Tour,1
+021t,019v,Geneve_pour_Black_City_Tour,2
+021t,077v,Grenoble_pour_Black_City_Tour,1
+021t,170v,La-Roche-Sur-Yon_pour_Black_City_Tour,1
+021t,066v,La Rochelle_pour_Black_City_Tour,1
+021t,126v,Le_Havre_pour_Black_City_Tour,1
+021t,016v,Lille_pour_Black_City_Tour,2
+021t,028v,Limoges_pour_Black_City_Tour,1
+021t,188v,Londres_pour_Black_City_Tour,1
+021t,171v,Lorient_pour_Black_City_Tour,1
+021t,002v,Lyon_pour_Black_City_Tour,3
+021t,159v,Macon_pour_Black_City_Tour,1
+021t,074v,Marseille_pour_Black_City_Tour,1
+021t,182v,Montbeliard_pour_Black_City_Tour,1
+021t,023v,Montpellier _pour_Black_City_Tour,1
+021t,084v,Montréal_pour_Black_City_Tour,1
+021t,006v,Nancy_pour_Black_City_Tour,1
+021t,063v,Nantes_pour_Black_City_Tour,4
+021t,052v,Nice_pour_Black_City_Tour,1
+021t,005v,Orleans_pour_Black_City_Tour,1
+021t,001v,Paris_pour_Black_City_Tour,3
+021t,057v,Pau_pour_Black_City_Tour,1
+021t,183v,Roanne_pour_Black_City_Tour,1
+021t,047v,Rouen_pour_Black_City_Tour,2
+021t,030v,Saint-Etienne_pour_Black_City_Tour,1
+021t,035v,Strasbourg_pour_Black_City_Tour,2
+021t,056v,Toulouse_pour_Black_City_Tour,2
+021t,186v,Trelaze _pour_Black_City_Tour,1
+022t,001v,Paris_pour_Stade_De_France_Black_City_Concerts,2
+023t,194v,Amsterdam_pour_Europe_City_Club_Tour,1
+023t,193v,Anvers_pour_Europe_City_Club_Tour,1
+023t,189v,Barcelone_pour_Europe_City_Club_Tour,1
+023t,191v,Berlin_pour_Europe_City_Club_Tour,1
+023t,042v,Copenhague_pour_Europe_City_Club_Tour,1
+023t,190v,Milan_pour_Europe_City_Club_Tour,1
+023t,192v,Oslo _pour_Europe_City_Club_Tour,1
+023t,037v,Stockholm_pour_Europe_City_Club_Tour,1
+024t,195v,New York_pour_Concerts_2015,1
+024t,001v,Paris_pour_Concerts_2015,1
+025t,026v,Carcassonne_pour_Festival_Tour_2016,1
+025t,142v,Charleville-Mezieres_pour_Festival_Tour_2016,1
+025t,198v,Landerneau_pour_Festival_Tour_2016,1
+025t,033v,Liege _pour_Festival_Tour_2016,1
+025t,196v,Saint-Laurent-De-Cuves_pour_Festival_Tour_2016,1
+025t,197v,Saint-Malo-Du-Bois_pour_Festival_Tour_2016,1
+025t,017v,Sion_pour_Festival_Tour_2016,1
+026t,001v,Paris_pour_Concerts_2017,2
+027t,160v,Aix-Les-Bains_pour_13_Tour,1
+027t,082v,Amiens_pour_13_Tour,2
+027t,125v,Amneville_pour_13_Tour,2
+027t,027v,Bordeaux _pour_13_Tour,2
+027t,004v,Bruxelles _pour_13_Tour,4
+027t,061v,Caen_pour_13_Tour,2
+027t,029v,Clermont-Ferrand_pour_13_Tour,2
+027t,034v,Colmar_pour_13_Tour,1
+027t,048v,Dijon_pour_13_Tour,3
+027t,179v,Douai_pour_13_Tour,1
+027t,178v,Epernay_pour_13_Tour,1
+027t,019v,Geneve_pour_13_Tour,1
+027t,016v,Lille_pour_13_Tour,5
+027t,028v,Limoges_pour_13_Tour,1
+027t,002v,Lyon_pour_13_Tour,3
+027t,199v,Marmande_pour_13_Tour,1
+027t,074v,Marseille_pour_13_Tour,1
+027t,023v,Montpellier _pour_13_Tour,2
+027t,006v,Nancy_pour_13_Tour,1
+027t,063v,Nantes_pour_13_Tour,4
+027t,052v,Nice_pour_13_Tour,1
+027t,054v,Nîmes_pour_13_Tour,1
+027t,072v,Nyon_pour_13_Tour,1
+027t,005v,Orleans_pour_13_Tour,1
+027t,001v,Paris_pour_13_Tour,6
+027t,047v,Rouen_pour_13_Tour,3
+027t,030v,Saint-Etienne_pour_13_Tour,1
+027t,200v,Saint-Nolff_pour_13_Tour,1
+027t,035v,Strasbourg_pour_13_Tour,2
+027t,056v,Toulouse_pour_13_Tour,2
+027t,186v,Trelaze _pour_13_Tour,1
+028t,029v,Clermont-Ferrand_pour_Concerts_2020,1
+028t,001v,Paris_pour_Concerts_2020,2
+029t,004v,Bruxelles _pour_Concerts_2021,1
+029t,001v,Paris_pour_Concerts_2021,3
+030t,027v,Bordeaux _pour_Central_Tour_Tournee_Des_Stades,1
+030t,016v,Lille_pour_Central_Tour_Tournee_Des_Stades,2
+030t,002v,Lyon_pour_Central_Tour_Tournee_Des_Stades,1
+030t,074v,Marseille_pour_Central_Tour_Tournee_Des_Stades,1
+030t,001v,Paris_pour_Central_Tour_Tournee_Des_Stades,1
+031t,160v,Aix-Les-Bains_pour_Concerts_2023,1
+031t,152v,Albi_pour_Concerts_2023,1
+031t,187v,Argeles_pour_Concerts_2023,1
+031t,202v,Belfort_pour_Concerts_2023,1
+031t,204v,Braine-Le-Comte_pour_Concerts_2023,1
+031t,203v,Herouville-Saint-Clair_pour_Concerts_2023,1
+031t,188v,Londres_pour_Concerts_2023,1
+031t,002v,Lyon_pour_Concerts_2023,1
+031t,006v,Nancy_pour_Concerts_2023,1
+031t,201v,Nort-Sur-Erdre_pour_Concerts_2023,1
+031t,072v,Nyon_pour_Concerts_2023,1
+032t,001v,Paris_pour_Concerts_2024,1
+032t,205v,Roissy-En-France_pour_Concerts_2024,1
+033t,024v,Aix-En-Provence _pour_Arena_Tour,4
+033t,125v,Amneville_pour_Arena_Tour,4
+033t,027v,Bordeaux _pour_Arena_Tour,4
+033t,004v,Bruxelles _pour_Arena_Tour,4
+033t,029v,Clermont-Ferrand_pour_Arena_Tour,4
+033t,048v,Dijon_pour_Arena_Tour,4
+033t,179v,Douai_pour_Arena_Tour,4
+033t,018v,Lausanne _pour_Arena_Tour,3
+033t,002v,Lyon_pour_Arena_Tour,4
+033t,023v,Montpellier _pour_Arena_Tour,4
+033t,063v,Nantes_pour_Arena_Tour,4
+033t,005v,Orleans_pour_Arena_Tour,4
+033t,001v,Paris_pour_Arena_Tour,6
+033t,032v,Reims_pour_Arena_Tour,4
+033t,047v,Rouen_pour_Arena_Tour,4
+033t,035v,Strasbourg_pour_Arena_Tour,4
+033t,056v,Toulouse_pour_Arena_Tour,4
